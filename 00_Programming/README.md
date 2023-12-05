@@ -4,6 +4,6 @@ Di folder ini berisi Praktikum-Praktikum yang saya lakukan bersama pelatih saat 
 
 ----------
 
-- [HOME](README.md)
-- [Programming - Berisi praktik saya bersama pelatih](./00_Programming/)
-- [UI-UX](./00_UI-UX/)
+- [HOME](https://github.com/asepdwisaputra/Creator/blob/main/README.md)
+- [Programming - Berisi praktik saya bersama pelatih](https://github.com/asepdwisaputra/Creator/tree/main/00_Programming)
+- [UI-UX](https://github.com/asepdwisaputra/Creator/tree/main/00_UI-UX/Tugas)
